@@ -1,0 +1,10 @@
+<?xml version = "1.0"?>
+
+<skills>
+	<theory>SDLC_STLC_Test_documentation_Types_of_testing</theory>
+	<testing_tools>Postman_Charles_Fiddler_Jmeter</testing_tools>
+	<database>SQL_PostgreSQL_DBeaver</database>
+	<mobile_testing>Android_Studio_ADB</mobile_testing>
+	<programming_language>Python</programming_language>
+</skills>
+
