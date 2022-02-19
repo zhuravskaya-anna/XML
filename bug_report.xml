@@ -1,1 +1,14 @@
+<?xml version = "1.0"?>
+<bug_report>
+	<id>1</id>
+	<Summary>Header->меню-> не верно назван элемент  Академия </Summary>
+	<Severity>Minor</Severity>
+	<Priority>Medium</Priority>
+	<Environment>Windows 7 Professional 64-bit Google Chrome</Environment>
+	<Description>в заголовке сайта в меню  Block-4 не верно назван элемент указано  Главная  вместо  Академия</Description>
+	<Preconditions>User is on https://itcareer.pythonanywhere.com</Preconditions>
+	<STR>Запустить браузер. перейти  https: АДРЕС. в заголовке сайта изучить название  элементов меню. сравнить со спецификацией</STR>
+	<ER>элемент   Академия</ER>
+	<AR>элемент Главная </AR>	
+</bug_report>
 
