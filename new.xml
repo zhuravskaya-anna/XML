@@ -9,7 +9,8 @@
 		<number>1</number>
 		<kind_of_pet>cat</kind_of_pet>
 		<name>Salvador</name>
-		<number>2</number>						<kind_of_pet>snail</kind_of_pet>
+		<number>2</number>						
+		<kind_of_pet>snail</kind_of_pet>
 		<name>Lusinda</name>
 	</pets>
 	<desiredSalary>500</desiredSalary>
